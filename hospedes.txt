@@ -1,4 +1,0 @@
-08822192354;Thales;21;12345678;true
-12345678;André;30;987654321;false
-10;thales;21;11;true
-11;Andre;40;12;false
